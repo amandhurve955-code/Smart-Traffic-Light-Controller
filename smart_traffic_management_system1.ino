@@ -3,7 +3,7 @@
   Description: Controls a multi-directional traffic light system with 
                synchronized Red, Yellow, and Green LEDs alongside a 
                7-segment display countdown timer using an Arduino Uno.
-  Author: Aman Dhurve
+ 
   Domain: Embedded Systems
   Date: 09/08/2026
   
