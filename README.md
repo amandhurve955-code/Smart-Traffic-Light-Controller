@@ -5,7 +5,8 @@ The Smart Traffic Light Controller is an Arduino-based automated traffic signal 
 **Company:** CODTECH IT SOLUTIONS    
 **ID:** CITS6427  
 **Domain:** EMBEDDED SYSTEM   
-**No. of Weeks:** 6 WEEKS  
+**No. of Weeks:** 6 WEEKS    
+**Internship Period:** 4 July 2026 - 15 August 2026
 
 # Overview
 The Smart Traffic Light Controller is an embedded system project that manages intersection signal transitions while providing a visible countdown timer for drivers and pedestrians to improve road safety and intersection efficiency.
