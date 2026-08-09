@@ -5,6 +5,8 @@
                7-segment display countdown timer using an Arduino Uno.
   Author: Aman Dhurve
   Domain: Embedded Systems
+  Date: 09/08/2026
+  
 */
 
 int red1 = 2;
