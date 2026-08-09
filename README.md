@@ -4,5 +4,5 @@ The Smart Traffic Light Controller is an Arduino-based automated traffic signal 
 **Name:** AMAN DHURVE   
 **Company:** CODTECH IT SOLUTIONS    
 **ID:** CITS6427  
-**Domain:** Embedded System   
-**No. of Weeks:** 6 weeks  
+**Domain:** EMBEDDED SYSTEM   
+**No. of Weeks:** 6 WEEKS  
