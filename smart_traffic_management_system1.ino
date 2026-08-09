@@ -1,3 +1,12 @@
+/*
+  Project: Smart Traffic Light Controller with 7-Segment Countdown
+  Description: Controls a multi-directional traffic light system with 
+               synchronized Red, Yellow, and Green LEDs alongside a 
+               7-segment display countdown timer using an Arduino Uno.
+  Author: Aman Dhurve
+  Domain: Embedded Systems
+*/
+
 int red1 = 2;
 int yellow1 = 3;
 int green1 = 4;
